@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KrIcOGUMRpQ01grViytfr8iBftAgdVgunYvJp7ka/8acBKFqrrYYzDMhvqlVmsGp3Ysk+fOSJNGKymvlr8OFA==",
+  "success": true,
+  "projectFilePath": "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/yanfanNet6WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/yanfan/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.1.0/microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "/Users/yanfan/.nuget/packages/microsoft.aspnetcore.mvc.versioning.apiexplorer/5.1.0/microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
+    "/Users/yanfan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/yanfan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/yanfan/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/yanfan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/yanfan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/yanfan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

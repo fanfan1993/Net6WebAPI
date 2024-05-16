@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{32DA3F90-009F-4638-B2AA-981D58B76722}|Default">
+  <MonoDevelop.Ide.ItemProperties.yanfanNet6WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="yanfanNet6WebApi/Utility/Swagger/SwaggerExtension.cs">
+    <Files>
+      <File FileName="yanfanNet6WebApi/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="yanfanNet6WebApi/Controllers/CompanyController.cs" Line="1" Column="1" />
+      <File FileName="yanfanNet6WebApi/Company.cs" Line="10" Column="14" />
+      <File FileName="yanfanNet6WebApi/User.cs" Line="1" Column="1" />
+      <File FileName="yanfanNet6WebApi/Controllers/UserController.cs" Line="24" Column="1" />
+      <File FileName="yanfanNet6WebApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="yanfanNet6WebApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="yanfanNet6WebApi/Program.cs" Line="37" Column="9" />
+      <File FileName="yanfanNet6WebApi/Utility/Swagger/ApiVersions.cs" Line="7" Column="25" />
+      <File FileName="yanfanNet6WebApi/Controllers/FileController.cs" Line="10" Column="24" />
+      <File FileName="yanfanNet6WebApi/Controllers/WeatherForecastController.cs" Line="8" Column="79" />
+      <File FileName="yanfanNet6WebApi/Utility/Swagger/FileUploadFilter.cs" Line="18" Column="20" />
+      <File FileName="yanfanNet6WebApi/Controllers/UserV2Controller.cs" Line="8" Column="79" />
+      <File FileName="yanfanNet6WebApi/Utility/Swagger/SwaggerExtension.cs" Line="21" Column="17" />
+      <File FileName="yanfanNet6WebApi/Utility/Route/RouteConvention.cs" Line="22" Column="16" />
+      <File FileName="yanfanNet6WebApi/Controllers/VersionController.cs" Line="11" Column="20" />
+      <File FileName="yanfanNet6WebApi/Controllers/V20/VersionV2Controller.cs" Line="14" Column="33" />
+      <File FileName="yanfanNet6WebApi/Utility/Swagger/ApiVersions (复制).cs" Line="14" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="yanfanNet6WebApi" expanded="True">
+            <Node name="yanfanNet6WebApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="V20" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Utility" expanded="True">
+                <Node name="Swagger" expanded="True">
+                  <Node name="SwaggerExtension.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
