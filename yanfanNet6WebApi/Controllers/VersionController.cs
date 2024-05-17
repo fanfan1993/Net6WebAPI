@@ -14,7 +14,6 @@ namespace yanfanNet6WebApi.Controllers;
 //[ApiExplorerSettings(IgnoreApi = false, GroupName = nameof(ApiVersions.V3))]
 public class VersionController : ControllerBase
 {
-
     private readonly ILogger<VersionController> _logger;
 
     public VersionController(ILogger<VersionController> logger)

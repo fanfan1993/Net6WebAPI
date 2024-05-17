@@ -17,12 +17,14 @@
     <None Remove="Utility\Swagger\" />
     <None Remove="Utility\Route\" />
     <None Remove="Controllers\V20\" />
+    <None Remove="Utility\Filters\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Utility\" />
     <Folder Include="Utility\Swagger\" />
     <Folder Include="Utility\Route\" />
     <Folder Include="Controllers\V20\" />
+    <Folder Include="Utility\Filters\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\yanfanNet6Interfaces\yanfanNet6Interfaces.csproj">
