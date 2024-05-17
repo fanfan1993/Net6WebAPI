@@ -32,3 +32,7 @@
 /Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/obj/Debug/net6.0/ref/yanfanNet6WebApi.dll
 /Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Versioning.dll
 /Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/bin/Debug/net6.0/yanfanNet6Interfaces.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/bin/Debug/net6.0/yanfanNet6Services.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/bin/Debug/net6.0/yanfanNet6Interfaces.pdb
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6WebApi/bin/Debug/net6.0/yanfanNet6Services.pdb

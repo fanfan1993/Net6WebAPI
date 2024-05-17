@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "yanfanNet6Services/1.0.0": {
+        "dependencies": {
+          "yanfanNet6Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "yanfanNet6Services.dll": {}
+        }
+      },
+      "yanfanNet6Interfaces/1.0.0": {
+        "runtime": {
+          "yanfanNet6Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "yanfanNet6Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "yanfanNet6Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

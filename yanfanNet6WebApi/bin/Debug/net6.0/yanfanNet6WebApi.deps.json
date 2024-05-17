@@ -10,7 +10,9 @@
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
           "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.1.0",
-          "Swashbuckle.AspNetCore": "6.5.0"
+          "Swashbuckle.AspNetCore": "6.5.0",
+          "yanfanNet6Interfaces": "1.0.0",
+          "yanfanNet6Services": "1.0.0"
         },
         "runtime": {
           "yanfanNet6WebApi.dll": {}
@@ -81,6 +83,19 @@
             "fileVersion": "6.5.0.0"
           }
         }
+      },
+      "yanfanNet6Interfaces/1.0.0": {
+        "runtime": {
+          "yanfanNet6Interfaces.dll": {}
+        }
+      },
+      "yanfanNet6Services/1.0.0": {
+        "dependencies": {
+          "yanfanNet6Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "yanfanNet6Services.dll": {}
+        }
       }
     }
   },
@@ -145,6 +160,16 @@
       "sha512": "sha512-OvbvxX+wL8skxTBttcBsVxdh73Fag4xwqEU2edh4JMn7Ws/xJHnY/JB1e9RoCb6XpDxUF3hD9A0Z1lEUx40Pfw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.5.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    },
+    "yanfanNet6Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "yanfanNet6Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

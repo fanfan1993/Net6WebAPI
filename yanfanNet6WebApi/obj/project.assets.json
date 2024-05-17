@@ -120,6 +120,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "yanfanNet6Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/yanfanNet6Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/yanfanNet6Interfaces.dll": {}
+        }
+      },
+      "yanfanNet6Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "yanfanNet6Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/yanfanNet6Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/yanfanNet6Services.dll": {}
+        }
       }
     }
   },
@@ -507,13 +530,25 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "yanfanNet6Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../yanfanNet6Interfaces/yanfanNet6Interfaces.csproj",
+      "msbuildProject": "../yanfanNet6Interfaces/yanfanNet6Interfaces.csproj"
+    },
+    "yanfanNet6Services/1.0.0": {
+      "type": "project",
+      "path": "../yanfanNet6Services/yanfanNet6Services.csproj",
+      "msbuildProject": "../yanfanNet6Services/yanfanNet6Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Mvc.Versioning >= 5.1.0",
       "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer >= 5.1.0",
-      "Swashbuckle.AspNetCore >= 6.5.0"
+      "Swashbuckle.AspNetCore >= 6.5.0",
+      "yanfanNet6Interfaces >= 1.0.0",
+      "yanfanNet6Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -541,7 +576,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/yanfanNet6Interfaces.csproj": {
+              "projectPath": "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/yanfanNet6Interfaces.csproj"
+            },
+            "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/yanfanNet6Services.csproj": {
+              "projectPath": "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/yanfanNet6Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

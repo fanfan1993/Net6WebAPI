@@ -9,8 +9,8 @@ namespace yanfanNet6WebApi.Controllers;
 /// 
 [ApiController]
 [ApiVersion("1.0")]
-//[Route("[controller]/v(version:apiVersion]")]
-[Route("[controller]")]
+[Route("[controller]/v{version:apiVersion}")]
+//[Route("[controller]")]
 //[ApiExplorerSettings(IgnoreApi = false, GroupName = nameof(ApiVersions.V3))]
 public class VersionController : ControllerBase
 {

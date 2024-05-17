@@ -6,6 +6,8 @@ using Swashbuckle.AspNetCore.SwaggerGen;
 using System;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
+using yanfanNet6Interfaces;
+using yanfanNet6Services;
 using yanfanNet6WebApi.Utility.Route;
 using yanfanNet6WebApi.Utility.Swagger;
 
@@ -21,7 +23,7 @@ public class Program
         // Add services to the container
   
         builder.Services
-        .AddControllers(option => {
+            .AddControllers(option => {
             // 全局路由加上 api/ 这个
             option.Conventions.Insert(0, new RouteConvention(new RouteAttribute("api/")));
             })
@@ -31,7 +33,6 @@ public class Program
                 options.JsonSerializerOptions.Encoder = JavaScriptEncoder.Create(UnicodeRanges.All);
             });
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-
 
         #region 添加API版本控制的支持
         {
@@ -64,6 +65,11 @@ public class Program
         //SwaggerExtension.AddSwaggerGenExt();
         builder.AddSwaggerGenExt();
 
+
+        #region 注册抽象和具体之间的关系
+        builder.Services.AddTransient<ITestServiceA, TestServiceA>();
+        builder.Services.AddTransient<ITestServiceB, TestServiceB>();
+        #endregion
 
         WebApplication app = builder.Build();
         //var app = builder.Build();

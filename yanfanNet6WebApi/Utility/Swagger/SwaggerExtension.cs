@@ -46,7 +46,7 @@ namespace yanfanNet6WebApi.Utility.Swagger
 
                         IEnumerable<string>? values = apiDescription!.RelativePath
                             .Split('/')
-                            .Select(v => v.Replace("v(version)", apiDescription.GroupName));
+                            .Select(v => v.Replace("v{version}", apiDescription.GroupName));
 
                         apiDescription.RelativePath = string.Join("/", values);
                         return true;

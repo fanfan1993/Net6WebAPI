@@ -1,0 +1,12 @@
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/bin/Debug/net6.0/yanfanNet6Interfaces.deps.json
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/bin/Debug/net6.0/yanfanNet6Interfaces.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/bin/Debug/net6.0/yanfanNet6Interfaces.pdb
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/yanfanNet6Interfaces.csproj.AssemblyReference.cache
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/yanfanNet6Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/yanfanNet6Interfaces.AssemblyInfoInputs.cache
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/yanfanNet6Interfaces.AssemblyInfo.cs
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/yanfanNet6Interfaces.csproj.CoreCompileInputs.cache
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/yanfanNet6Interfaces.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/refint/yanfanNet6Interfaces.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/yanfanNet6Interfaces.pdb
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/Debug/net6.0/ref/yanfanNet6Interfaces.dll

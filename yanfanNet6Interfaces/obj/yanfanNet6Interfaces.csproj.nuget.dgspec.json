@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/yanfanNet6Interfaces.csproj": {}
+  },
+  "projects": {
+    "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/yanfanNet6Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/yanfanNet6Interfaces.csproj",
+        "projectName": "yanfanNet6Interfaces",
+        "projectPath": "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/yanfanNet6Interfaces.csproj",
+        "packagesPath": "/Users/yanfan/.nuget/packages/",
+        "outputPath": "/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanfan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/bin/Debug/net6.0/yanfanNet6Services.deps.json
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/bin/Debug/net6.0/yanfanNet6Services.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/bin/Debug/net6.0/yanfanNet6Services.pdb
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/bin/Debug/net6.0/yanfanNet6Interfaces.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/bin/Debug/net6.0/yanfanNet6Interfaces.pdb
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.csproj.AssemblyReference.cache
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.AssemblyInfoInputs.cache
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.AssemblyInfo.cs
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.csproj.CoreCompileInputs.cache
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.csproj.CopyComplete
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/refint/yanfanNet6Services.dll
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/yanfanNet6Services.pdb
+/Users/yanfan/Documents/net/netWebApi/yanfanNet6WebApi/yanfanNet6Services/obj/Debug/net6.0/ref/yanfanNet6Services.dll

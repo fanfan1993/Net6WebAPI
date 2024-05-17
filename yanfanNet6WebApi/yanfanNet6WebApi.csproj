@@ -24,4 +24,12 @@
     <Folder Include="Utility\Route\" />
     <Folder Include="Controllers\V20\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\yanfanNet6Interfaces\yanfanNet6Interfaces.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\yanfanNet6Services\yanfanNet6Services.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
