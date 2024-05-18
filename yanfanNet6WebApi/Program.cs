@@ -20,8 +20,9 @@ public class Program
         WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
         // var builder = WebApplication.CreateBuilder(args);
 
+        builder.Logging.AddLog4Net("cfgFile/log4net.Config");
         // Add services to the container
-  
+
         builder.Services
             .AddControllers(option => {
             // 全局路由加上 api/ 这个

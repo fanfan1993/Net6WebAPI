@@ -27,7 +27,9 @@ public class FilterController : ControllerBase
     /// <returns></returns>
     [HttpGet]
     [Route("{id:int}")]
-    [CustomResourceFilterAttribute]
+    //[CustomResourceFilterAttribute] // 扩展
+    //[CustomAsyncResourceFilter] //
+    [CustomCacheResourceFilter] // 扩展缓存
     public IActionResult GetUser(int id)
     {
 

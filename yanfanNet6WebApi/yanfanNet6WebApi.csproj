@@ -10,6 +10,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.1.0" />
+    <PackageReference Include="log4net" Version="2.0.17" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="8.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,6 +21,7 @@
     <None Remove="Utility\Route\" />
     <None Remove="Controllers\V20\" />
     <None Remove="Utility\Filters\" />
+    <None Remove="cfgFile\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Utility\" />
@@ -25,6 +29,7 @@
     <Folder Include="Utility\Route\" />
     <Folder Include="Controllers\V20\" />
     <Folder Include="Utility\Filters\" />
+    <Folder Include="cfgFile\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\yanfanNet6Interfaces\yanfanNet6Interfaces.csproj">
@@ -33,5 +38,10 @@
     <ProjectReference Include="..\yanfanNet6Services\yanfanNet6Services.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="cfgFile\log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 </Project>
